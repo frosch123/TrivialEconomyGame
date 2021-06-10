@@ -28,3 +28,9 @@ Thus I wrote this game. The rules are:
 This is what I learned:
 * A money-based economy with goods and prices pretty fast results in fractional money. I don't think it's viable to avoid float- and integer-divisions in this kind of game. It may be easier to just teach the kid to accept fractional numbers.
 * Entering numbers and the following string->int conversion requires exception handling. I guess I would have to provide an "input_integer()" function and prepare some excuse to make the kid accept it as-it.
+
+# Inspiration
+
+While the story related to my nephew's favorite game Catan, this game is actually inspired by some other games:
+* The 1988 DOS game "Armut Und Reichtum" ("povery and wealth") by Karl-Heinz Tisch.
+* I believe this game was itself inspired by the 1984 Atari game "Kaiser".
